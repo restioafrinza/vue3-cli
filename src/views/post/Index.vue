@@ -1,4 +1,8 @@
 <template>
+    <div class="decoration-clone bg-gradient-to-b from-yellow-400 to-red-500 text-transparent">
+  <h2>Hello</h2>
+  World
+</div>
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-12">
